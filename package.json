@@ -1,0 +1,15 @@
+{
+  "name": "serokelltask",
+  "version": "1.0.0",
+  "description": "Serokell.io Frontend Engineer test task by Abdullahi Mustapha",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Abdullahi Mustapha",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "typescript": "^4.4.4"
+  }
+}
